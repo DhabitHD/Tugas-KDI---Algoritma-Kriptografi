@@ -18,7 +18,7 @@ Program dapat dikompilasi dan dieksekusi melalui antarmuka baris perintah (Termi
 
 4. Setelah proses kompilasi berhasil, sebuah file executable akan terbentuk. Jalankan program dengan perintah berikut sesuai dengan sistem operasi yang digunakan:
 
-   Untuk environment Linux (seperti pada Mint atau EndeavourOS) dan macOS:
+   Untuk environment Linux dan macOS:
 
        ./rc4
 
